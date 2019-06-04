@@ -1,3 +1,9 @@
+body {
+	background-color: grey;
+	background-image: url('back.jpg');
+
+}
+
 h1 {
 	font-family: cursive;
 	color: blue;
@@ -19,4 +25,16 @@ h1 {
 
 .nav-tabs {
 	margin-bottom: 0;
+}
+
+p {
+	background-color: grey;
+	color: white;
+	font-family: cursive;
+	font-style: italic;
+}
+h4 {
+	text-align: center;
+	background-color: black;
+	background-image: url('back.jpg');
 }
