@@ -1,6 +1,6 @@
 body {
-	background-color: grey;
-	background-image: url('back.jpg');
+	background-color: white;
+	font-size: 200%;
 
 }
 
@@ -37,4 +37,44 @@ h4 {
 	text-align: center;
 	background-color: black;
 	background-image: url('back.jpg');
+}
+
+#font-fam {
+	font-family: 'Tangerine', serif;
+    font-size: 48px;
+
+}
+#nttlogo {
+	height: 100px;
+	width: 100px;
+}
+#website {
+	font-size: 5.4em;
+}
+
+.slide1{
+	background-image: url('back1.jpg');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slide2{
+	background-image: url('back2.jpg');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slide3{
+	background-image: url('back3.jpg');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.glyphicon {
+	color: alpha;
+
 }
