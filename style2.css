@@ -3,11 +3,11 @@
 	margin: 0;
 	font-family: cursive;
 }
-
 body {
-	background-color: black;
-
+	background-image: url('backg.jpg');
+	background-size: cover;
 }
+
 
 .container {
 	text-align: center;
@@ -19,19 +19,19 @@ body {
 }
 
 .container span {
-	color: white;
+	color: violet;
 	text-transform: uppercase;
 	display: block;
 }
 .text1 {
-	color: white;
+	color: violet;
 	font-size: 60px;
 	font-weight: bold;
 	letter-spacing: 8px;
 	margin-bottom: 20px;
 	background: black;
 	position: relative;
-	animation: text 3s 1;
+	animation: text 4s 1;
 
 }
 #t2 {
@@ -61,3 +61,7 @@ body {
 	}
 }
 
+
+#home {
+	color: white;
+}
